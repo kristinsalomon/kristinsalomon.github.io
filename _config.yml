@@ -1,16 +1,16 @@
 # Site settings
 title: Kristin Salomon
-description: hardware/electrical engineer
+description: engineer
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.ksalomon.com" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Kristin Salomon
-user_description: I'm a hardware engineer with experience in consumer product design and embedded firmware development looking for my next adventure. Get in touch!
-user_title: hardware/electrical engineer
+user_description: I'm an electrical engineer with experience in consumer product design and embedded firmware development, currently at Farmshelf.
+user_title: electrical and embedded systems engineer
 email: kristin@ksalomon.com
 # twitter_username: lorem_ipsum
-github_username:  _ksalomon
+github_username:  kristinsalomon
 # gplus_username:  lorem_ipsum
 
 # Google-analytics
